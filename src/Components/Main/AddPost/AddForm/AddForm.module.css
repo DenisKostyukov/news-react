@@ -1,0 +1,28 @@
+.newPost{
+  margin: 0 auto;
+  max-width: 700px;
+}
+.input{
+  width: 100%;
+  padding: 0 10px;
+  color: #6a6965;
+  font-size: 14px;
+}
+.label{
+  display: block;
+  margin: 20px 0;
+}
+.labelText{
+  margin-bottom: 10px;
+}
+.buttons{
+  display: flex;
+  justify-content: space-around;
+}
+.btn{
+  font-size: 14px;
+  padding: 3px 20px;
+  border: 1px solid ;
+  background-color: #f2d360;
+  border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.postWrapper{
+  padding: 20px;
+  margin: 20px 0;
+}
+.postHeader{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 20px;
+}
+.postTitle{
+  font-size: 20px;
+  font-weight: bold;
+}
+.date{
+  color: #6a6965;
+}
+.background{
+  background-color: #fff;
+  -webkit-box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+  box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+}

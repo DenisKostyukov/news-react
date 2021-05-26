@@ -1,0 +1,16 @@
+.background{
+  background-color: #fff;
+  -webkit-box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+  box-shadow: 2px 3px 11px -8px rgba(0,0,0,0.75);
+}
+.addPost{
+  padding: 20px 0;
+  margin: 20px 0;
+}
+.addPostTitle{
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
