@@ -1,11 +1,12 @@
-import React from 'react';
-import NewsPost from '../NewsPost';
+import React, { useState } from "react";
+import NewsPost from "../NewsPost";
 
-function NewsList(props){
-  return(
-    <>
-      <NewsPost />
-    </>
-  )
+function NewsList(props) {
+	
+	return (
+		<>
+			<NewsPost />
+		</>
+	);
 }
- export default NewsList;
+export default NewsList;
